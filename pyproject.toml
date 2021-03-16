@@ -6,11 +6,11 @@ authors = ["Emanuele Ballarin <emanuele@ballarin.cc>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-numpy
-scipy
-pandas
-matplotlib
-sklearn
+numpy = "*"
+scipy = "*"
+pandas = "*"
+matplotlib = "*"
+sklearn = "*"
 
 [tool.poetry.dev-dependencies]
 
