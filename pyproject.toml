@@ -11,6 +11,7 @@ scipy = "~1.4"
 matplotlib = "~3.3"
 pandas = "*"
 scikit-learn = "*"
+replit="*"
 
 [tool.poetry.dev-dependencies]
 
