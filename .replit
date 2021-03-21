@@ -1,2 +1,2 @@
-run="python ./repl/epid.py"
+run="python ./repl/main.py"
 language="python3"
